@@ -1,0 +1,1 @@
+for obj in geometry do try obj.name=obj.material.name catch()

@@ -1,0 +1,16 @@
+		阵列窗到线(测试版)  
+
+By:Ace     http://www.3dheima.com      QQ:260592419
+
+
+  理论上支持Max版本  3dsMax 9 - 3dsMax 2015 （如果不成功 试下安装下 SP 补丁）
+		
+
+ 也许 DLL 被误报 有病毒   添加信任即可	(这是一个安全的 DLL  放心使用)
+
+
+1. 把 ObjSpacingspline2009.dll 和 objSpacingspline.dll  移动到  C:\Windows\System32   目录下 
+	(或者  可以直接  双击 MROdllpath.exe 程序  自动帮你移动  )
+
+2.  拖拽 运行阵列窗到线.ms  文件 到MAX 即可  
+
